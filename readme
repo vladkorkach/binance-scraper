@@ -1,0 +1,10 @@
+INSTALLATION
+
+1. create a virtualenv and activate it
+2. install packages in requirements.txt
+    pip install -r requirements.txt
+3. create a database
+    check model/base.py, change the string  "mysql://root:@localhost/binance_scrapper" where binance_scrapper is the name of the database.
+    check http://flask-sqlalchemy.pocoo.org/2.3/config/ for info.
+4. run the bot.
+    python bot.py
