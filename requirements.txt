@@ -29,6 +29,6 @@ SQLAlchemy==1.2.12
 Twisted==18.7.0
 txaio==18.8.1
 tzlocal==1.5.1
-urllib3==1.23
+urllib3==1.26.5
 var-dump==1.2
 zope.interface==4.5.0
