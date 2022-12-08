@@ -3,7 +3,7 @@ attrs==18.2.0
 autobahn==18.9.2
 Automat==0.7.0
 binance==0.3
-certifi==2018.8.24
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 constantly==15.1.0
